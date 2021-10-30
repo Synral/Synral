@@ -1,4 +1,8 @@
 ---
 ---
 
-@import "jekyll-theme-cayman";
+@import url(https://clearvision.gitlab.io/v6/main.css);
+
+/* Remove Watermarks */
+.typeWindows-1za-n7>.wordmark-2iDDfm:before,.typeWindows-1za-n7>.wordmark-2iDDfm:after{content:none;}
+.container-3baos1:before, .container-3baos1:after{content:none}
