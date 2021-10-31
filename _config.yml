@@ -21,16 +21,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://synral.github.io/Synral'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Daniel Hong'
+description: 'A place to showcase my work as a gameplay programmer'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
-
-# Pagination
-paginate: 5
-paginate_path: blog/page:num
+logo: ""
 
 # Header nav
 navigation_header:
@@ -38,8 +34,8 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+- title: Portfolio
+  url: /portfolio/
 
 # Footer nav
 navigation_footer:
